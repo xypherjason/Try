@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+}
+#login-form {
+	margin:10% auto;
+	max-width:30%;
+	
+}
+/* index page   */
+#wrapper{
+	padding-top:50px;
+}
+body {
+   
+    background-size:30%;
+    background-position: 25% 25%; 
+	
+}
